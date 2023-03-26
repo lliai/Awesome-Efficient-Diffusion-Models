@@ -128,7 +128,13 @@ Knowledge distillation: A good teacher is patient and consistent, Lucas Beyer, X
 
 Knowledge Distillation with the Reused Teacher Classifier, Defang Chen, Jian-Ping Mei, Hailin Zhang, Can Wang, Yan Feng, Chun Chen, CVPR 2022
 
+Scaffolding a Student to Instill Knowledge, ICLR2023
 
+Function-Consistent Feature Distillation, ICLR2023
+
+Better Teacher Better Student: Dynamic Prior Knowledge for Knowledge Distillation, ICLR2023
+
+Supervision Complexity and its Role in Knowledge Distillation, ICLR2023
 
 ## Training-Free Neural & Transformer Architecture Search 
 
