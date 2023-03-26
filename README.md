@@ -78,11 +78,11 @@ Stitchable Neural Networks. CVPR 2023 Highlight
   
   [ECCV] Patch Similarity Aware Data-Free Quantization for Vision Transformers. [qnn]
   
-  [IJCAI] FQ-ViT: Post-Training Quantization for Fully Quantized Vision Transformer. [qnn] [code] [71⭐]
+  [IJCAI] FQ-ViT: Post-Training Quantization for Fully Quantized Vision Transformer. [qnn] [code] [71]
     
    [arxiv] Q-ViT: Fully Differentiable Quantization for Vision Transformer [qnn]
    
-   [NeurIPS] BiT: Robustly Binarized Multi-distilled Transformer. [bnn] [code] [42⭐]
+   [NeurIPS] BiT: Robustly Binarized Multi-distilled Transformer. [bnn] [code] [42]
   
   [NeurIPS] ZeroQuant: Efficient and Affordable Post-Training Quantization for Large-Scale Transformers. [qnn]
 
@@ -105,7 +105,7 @@ Stitchable Neural Networks. CVPR 2023 Highlight
 
 ##  Methods for Distillation Gaps
 
-Improved Knowledge Distillation via Teacher Assistant: Bridging the Gap Between Student and Teacher. Mirzadeh et al. arXiv:1902.03393
+Improved Knowledge Distillation via Teacher Assistant: Bridging the Gap Between Student and Teacher. Mirzadeh et al. AAAI2020
 
 Search to Distill: Pearls are Everywhere but not the Eyes. Liu Yu et al. CVPR 2020
 
@@ -113,7 +113,7 @@ Reducing the Teacher-Student Gap via Spherical Knowledge Disitllation, arXiv:202
 
 Knowledge Distillation via the Target-aware Transformer, CVPR2022
 
-Decoupled Knowledge Distillation, Borui Zhao, Quan Cui, Renjie Song, Yiyu Qiu, Jiajun Liang, CVPR 2022, code
+Decoupled Knowledge Distillation, Borui Zhao, et al. , CVPR 2022, code
 
 Prune Your Model Before Distill It, Jinhyuk Park and Albert No, ECCV 2022, code
 
@@ -126,14 +126,14 @@ Respecting Transfer Gap in Knowledge Distillation, NeurIPS 2022
 
 Knowledge Distillation from A Stronger Teacher. arXiv preprint arXiv:2205.10536.
 
-Masked Generative Distillation, Zhendong Yang, Zhe Li, Mingqi Shao, Dachuan Shi, Zehuan Yuan, Chun Yuan, ECCV 2022, code
+Masked Generative Distillation, Zhendong Yang, et al. , ECCV 2022, code
 
 
-Curriculum Temperature for Knowledge Distillation, Zheng Li, Xiang Li, Lingfeng Yang, Borui Zhao, Renjie Song, Lei Luo, Jun Li, Jian Yang, AAAI 2023, code
+Curriculum Temperature for Knowledge Distillation, Zheng Li, et al. , AAAI 2023, code
 
-Knowledge distillation: A good teacher is patient and consistent, Lucas Beyer, Xiaohua Zhai, Amélie Royer, Larisa Markeeva, Rohan Anil, Alexander Kolesnikov, CVPR 2022
+Knowledge distillation: A good teacher is patient and consistent, Lucas Beyeret al.  CVPR 2022
 
-Knowledge Distillation with the Reused Teacher Classifier, Defang Chen, Jian-Ping Mei, Hailin Zhang, Can Wang, Yan Feng, Chun Chen, CVPR 2022
+Knowledge Distillation with the Reused Teacher Classifier, Defang Chen, et al. , CVPR 2022
 
 Scaffolding a Student to Instill Knowledge, ICLR2023
 
