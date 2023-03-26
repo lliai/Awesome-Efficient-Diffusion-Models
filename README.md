@@ -117,8 +117,7 @@ Prune Your Model Before Distill It, Jinhyuk Park and Albert No, ECCV 2022, code
 
 
 
-Huang, T., You, S., Wang, F., Qian, C., & Xu, C. (2022). Knowledge Distillation from A Stronger Teacher. arXiv preprint
-arXiv:2205.10536.
+Knowledge Distillation from A Stronger Teacher. arXiv preprint arXiv:2205.10536.
 
 Masked Generative Distillation, Zhendong Yang, Zhe Li, Mingqi Shao, Dachuan Shi, Zehuan Yuan, Chun Yuan, ECCV 2022, code
 
@@ -143,41 +142,41 @@ Training-free Transformer Architecture Search
 
 Training-Free Hardware-Aware Neural Architecture Search with Reinforcement Learning
 
-    Understanding and Accelerating Neural Architecture Search with Training-Free and Theory-Grounded Metrics
+Understanding and Accelerating Neural Architecture Search with Training-Free and Theory-Grounded Metrics
     
-    A Feature Fusion Based Indicator for Training-Free Neural Architecture Search
+A Feature Fusion Based Indicator for Training-Free Neural Architecture Search
     
-    Neural Architecture Search without Training
+Neural Architecture Search without Training
     
-    Zen-NAS: A Zero-Shot NAS for High-Performance Deep Image Recognition
+Zen-NAS: A Zero-Shot NAS for High-Performance Deep Image Recognition
     
-    Revisiting Efficient Object Detection Backbones from Zero-Shot Neural Architecture Search
+Revisiting Efficient Object Detection Backbones from Zero-Shot Neural Architecture Search
     
-    A Training-Free Genetic Neural Architecture Search
+A Training-Free Genetic Neural Architecture Search
+
+EcoNAS: Finding Proxies for Economical Neural Architecture Search
     
-    EcoNAS: Finding Proxies for Economical Neural Architecture Search
+EPE-NAS: Efficient Performance Estimation Without Training for Neural Architecture Search
     
-    EPE-NAS: Efficient Performance Estimation Without Training for Neural Architecture Search
+How does topology influence gradient propagation and model performance of deep networks with DenseNet-type skip connections?
     
-    How does topology influence gradient propagation and model performance of deep networks with DenseNet-type skip connections?
+FLASH: Fast Neural Architecture Search with Hardware Optimization
     
-    FLASH: Fast Neural Architecture Search with Hardware Optimization
+Deep Architecture Connectivity Matters for Its Convergence: A Fine-Grained Analysis
     
-    Deep Architecture Connectivity Matters for Its Convergence: A Fine-Grained Analysis
+ Reducing Neural Architecture Search Spaces with Training-Free Statistics and Computational Graph Clustering
     
-    Reducing Neural Architecture Search Spaces with Training-Free Statistics and Computational Graph Clustering
+EZNAS: Evolving Zero-Cost Proxies For Neural Architecture Scoring
     
-    EZNAS: Evolving Zero-Cost Proxies For Neural Architecture Scoring
+Zero-Cost Proxies Meet Differentiable Architecture Search
     
-    Zero-Cost Proxies Meet Differentiable Architecture Search
+Neural Architecture Search on ImageNet in Four GPU Hours: A Theoretically Inspired Perspective
     
-    Neural Architecture Search on ImageNet in Four GPU Hours: A Theoretically Inspired Perspective
+Training-Free Multi-objective Evolutionary Neural Architecture Search via Neural Tangent Kernel and Number of Linear Regions
     
-    Training-Free Multi-objective Evolutionary Neural Architecture Search via Neural Tangent Kernel and Number of Linear Regions
+Extensible Proxy for Efficient NAS
     
-    Extensible Proxy for Efficient NAS
-    
-    ZiCo: Zero-shot NAS via Inverse Coefficient of Variation on Gradients
+ZiCo: Zero-shot NAS via Inverse Coefficient of Variation on Gradients
 
 
 
