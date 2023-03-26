@@ -131,4 +131,53 @@ Knowledge Distillation with the Reused Teacher Classifier, Defang Chen, Jian-Pin
 
 
 
+## Training-Free Neural & Transformer Architecture Search 
+
+ Zero-Cost Proxies for Lightweight NAS
+ 
+ Unifying and Boosting Gradient-Based Training-Free Neural Architecture Search
+ 
+LiteTransformerSearch: Training-free On-device Search for Efficient Autoregressive Language Models
+
+Training-free Transformer Architecture Search
+
+Training-Free Hardware-Aware Neural Architecture Search with Reinforcement Learning
+
+    Understanding and Accelerating Neural Architecture Search with Training-Free and Theory-Grounded Metrics
+    
+    A Feature Fusion Based Indicator for Training-Free Neural Architecture Search
+    
+    Neural Architecture Search without Training
+    
+    Zen-NAS: A Zero-Shot NAS for High-Performance Deep Image Recognition
+    
+    Revisiting Efficient Object Detection Backbones from Zero-Shot Neural Architecture Search
+    
+    A Training-Free Genetic Neural Architecture Search
+    
+    EcoNAS: Finding Proxies for Economical Neural Architecture Search
+    
+    EPE-NAS: Efficient Performance Estimation Without Training for Neural Architecture Search
+    
+    How does topology influence gradient propagation and model performance of deep networks with DenseNet-type skip connections?
+    
+    FLASH: Fast Neural Architecture Search with Hardware Optimization
+    
+    Deep Architecture Connectivity Matters for Its Convergence: A Fine-Grained Analysis
+    
+    Reducing Neural Architecture Search Spaces with Training-Free Statistics and Computational Graph Clustering
+    
+    EZNAS: Evolving Zero-Cost Proxies For Neural Architecture Scoring
+    
+    Zero-Cost Proxies Meet Differentiable Architecture Search
+    
+    Neural Architecture Search on ImageNet in Four GPU Hours: A Theoretically Inspired Perspective
+    
+    Training-Free Multi-objective Evolutionary Neural Architecture Search via Neural Tangent Kernel and Number of Linear Regions
+    
+    Extensible Proxy for Efficient NAS
+    
+    ZiCo: Zero-shot NAS via Inverse Coefficient of Variation on Gradients
+
+
 
