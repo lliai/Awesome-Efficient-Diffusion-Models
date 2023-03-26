@@ -58,14 +58,13 @@ Stitchable Neural Networks. CVPR 2023 Highlight
  
  2022-ICLR-Unified Visual Transformer Compression
   
+  2022-ICLR-Self-slimmed Vision Transformer
+  
   2022-CVPR-Patch Slimming for Efficient Vision Transformers
   
   2022-CVPR-MiniViT: Compressing Vision Transformers with Weight Multiplexing
   
   2022-ECCV-An Efficient Spatio-Temporal Pyramid Transformer for Action Detection
-
-
-Self-slimmed Vision Transformer, Zhuofan Zong, Kunchang Li, Guanglu Song, Yali Wang, Yu Qiao, Biao Leng, Yu Liu, ICLR 2022
 
 
 
