@@ -47,8 +47,23 @@ Self-slimmed Vision Transformer, Zhuofan Zong, Kunchang Li, Guanglu Song, Yali W
 
 ##   Quantization for Vision Transformers
 
-Liu, Z., Wang, Y., Han, K., Zhang, W., Ma, S., & Gao, W. (2021). Post-training quantization for vision transformer. Advances in Neural
-Information Processing Systems, 34, 28092-28103.
+[arxiv] SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models.
+
+[NeurIPS] Q-ViT: Accurate and Fully Quantized Low-bit Vision Transformer. [qnn]
+ 
+ [ECCV] PTQ4ViT: Post-Training Quantization for Vision Transformers with Twin Uniform Quantization. [qnn]
+  
+  [ECCV] Patch Similarity Aware Data-Free Quantization for Vision Transformers. [qnn]
+  
+  [IJCAI] FQ-ViT: Post-Training Quantization for Fully Quantized Vision Transformer. [qnn] [code] [71⭐]
+    
+   [arxiv] Q-ViT: Fully Differentiable Quantization for Vision Transformer [qnn]
+   
+   [NeurIPS] BiT: Robustly Binarized Multi-distilled Transformer. [bnn] [code] [42⭐]
+  
+  [NeurIPS] ZeroQuant: Efficient and Affordable Post-Training Quantization for Large-Scale Transformers. [qnn]
+
+
 
 
 ##  Methods for Distillation Gaps
