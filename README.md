@@ -109,12 +109,19 @@ Improved Knowledge Distillation via Teacher Assistant: Bridging the Gap Between 
 
 Search to Distill: Pearls are Everywhere but not the Eyes. Liu Yu et al. CVPR 2020
 
-Reducing the Teacher-Student Gap via Spherical Knowledge Disitllation, Jia Guo, Minghao Chen, Yao Hu, Chen Zhu, Xiaofei He, Deng Cai, 2020
+Reducing the Teacher-Student Gap via Spherical Knowledge Disitllation, arXiv:2020
+
+Knowledge Distillation via the Target-aware Transformer, CVPR2022
 
 Decoupled Knowledge Distillation, Borui Zhao, Quan Cui, Renjie Song, Yiyu Qiu, Jiajun Liang, CVPR 2022, code
 
 Prune Your Model Before Distill It, Jinhyuk Park and Albert No, ECCV 2022, code
 
+Asymmetric Temperature Scaling Makes Larger Networks Teach Well Again, NeurIPS 2022
+
+Weighted Distillation with Unlabeled Examples, NeurIPS 2022
+
+Respecting Transfer Gap in Knowledge Distillation, NeurIPS 2022
 
 
 Knowledge Distillation from A Stronger Teacher. arXiv preprint arXiv:2205.10536.
