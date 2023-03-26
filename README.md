@@ -63,7 +63,21 @@ Self-slimmed Vision Transformer, Zhuofan Zong, Kunchang Li, Guanglu Song, Yali W
   
   [NeurIPS] ZeroQuant: Efficient and Affordable Post-Training Quantization for Large-Scale Transformers. [qnn]
 
-
+   [NeurIPS] Post-Training Quantization for Vision Transformer. [mixed]
+    
+   [NeurIPS] Fully Quantized Transformer for Improved Translation. [qnn] [nlp]
+   
+   [ICML] Efficient 8-Bit Quantization of Transformer Neural Machine Language Translation Model. [qnn] [nlp]
+   
+   [IJCAI] Towards Fully 8-bit Integer Inference for the Transformer Model. [qnn] [nlp]
+   
+   [EMNLP] TernaryBERT: Distillation-aware Ultra-low Bit BERT. [qnn]
+   
+   [EMNLP] Fully Quantized Transformer for Machine Translation. [qnn]
+   
+   [ACL] On the Distribution, Sparsity, and Inference-time Quantization of Attention Values in Transformers. [qnn]
+   
+   [arxiv] Post-Training Quantization for Vision Transformer. [qnn]
 
 
 ##  Methods for Distillation Gaps
