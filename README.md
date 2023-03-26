@@ -1,5 +1,5 @@
 # Awesome-Efficient-AI-for-Large-Scale-Models
-Paper survey of efficient computation for large scale models.
+Paper survey of efficient computation for large scale models (e.g. Transformers, Vision Transformers, etc).
 
 ##  Knowledge Distillation in Vision Transformers
 
