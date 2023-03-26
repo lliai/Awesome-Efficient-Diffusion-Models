@@ -35,9 +35,6 @@ On Distillation of Guided Diffusion Models, Chenlin Meng, Ruiqi Gao, Diederik P.
 
 ##   Pruning for Vision Transformers
 
-Papers
-
-
 2019-NIPS-Are sixteen heads really better than one?
 
 2020.11-Long Range Arena: A Benchmark for Efficient Transformers
