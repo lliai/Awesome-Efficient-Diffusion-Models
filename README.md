@@ -27,6 +27,11 @@ MiniViT: Compressing Vision Transformers with Weight Multiplexing. CVPR2022
 
 ViTKD: Practical Guidelines for ViT feature knowledge distillation. arXiv 2022, code
 
+##   Model stitching for Vision Transformers
+
+Deep Model Reassembly. NeurIPS, 2022
+
+Stitchable Neural Networks. CVPR 2023 Highlight
 
 
 ##   Pruning for Vision Transformers
