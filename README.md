@@ -11,27 +11,23 @@ Co-advise: Cross inductive bias distillation.CVPR2022.
 Tinyvit: Fast pretraining distillation for small vision
 transformers. arXiv preprint arXiv:2207.10666.
 
-Attention Probe: Vision Transformer Distillation in the Wild. ICASSP
+Attention Probe: Vision Transformer Distillation in the Wild. ICASSP2022
 
 
-Dear KD: Data-Efficient Early Knowledge Distillation
-for Vision Transformers. arXiv preprint arXiv:2204.12997
+Dear KD: Data-Efficient Early Knowledge Distillation for Vision Transformers. CVPR2022
 
 
-Jia, D., Han,Efficient vision transformers via fine-grained manifold
-distillation. arXiv preprint arXiv:2107.01378.
-
-Transformers. arXiv preprint arXiv:2207.10666.
-
- Cross-Architecture Knowledge Distillation. arXiv preprint arXiv:2207.05273.
+Efficient vision transformers via fine-grained manifold distillation. NIPS2022
 
 
-MiniViT: Compressing Vision Transformers with Weight
-Multiplexing. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 12145-12154).
+ Cross-Architecture Knowledge Distillation. arXiv preprint arXiv:2207.05273. ACCV2022
 
-ViTKD: Practical Guidelines for ViT feature knowledge distillation, Zhendong Yang, Zhe Li, Ailing Zeng, Zexian Li, Chun Yuan, Yu Li, arXiv 2022, code
 
-On Distillation of Guided Diffusion Models, Chenlin Meng, Ruiqi Gao, Diederik P. Kingma, Stefano Ermon, Jonathan Ho, Tim Salimans, arXiv 2022
+MiniViT: Compressing Vision Transformers with Weight Multiplexing. CVPR2022
+
+ViTKD: Practical Guidelines for ViT feature knowledge distillation. arXiv 2022, code
+
+
 
 ##   Pruning for Vision Transformers
 
