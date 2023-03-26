@@ -4,32 +4,29 @@ Paper survey of efficient computation for large scale models.
 ##  Knowledge Distillation in Vision Transformers
 
 
-Touvron, H., Cord, M., Douze, M., Massa, F., Sablayrolles, A., & Jégou, H. (2021, July). Training data-efficient image transformers &
-distillation through attention. In International Conference on Machine Learning (pp. 10347-10357). PMLR
+Training data-efficient image transformers & distillation through attention. ICML2021
 
-Ren, S., Gao, Z., Hua, T., Xue, Z., Tian, Y., He, S., & Zhao, H. (2022). Co-advise: Cross inductive bias distillation. In Proceedings of
-the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 16773-16782).
+Co-advise: Cross inductive bias distillation.CVPR2022.
 
-Wu, K., Zhang, J., Peng, H., Liu, M., Xiao, B., Fu, J., & Yuan, L. (2022). Tinyvit: Fast pretraining distillation for small vision
+Tinyvit: Fast pretraining distillation for small vision
 transformers. arXiv preprint arXiv:2207.10666.
 
-Wang, J., Cao, M., Shi, S., Wu, B., & Yang, Y. (2022, May). Attention Probe: Vision Transformer Distillation in the Wild. ICASSP
-2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 2220-2224). IEEE.
+Attention Probe: Vision Transformer Distillation in the Wild. ICASSP
 
-Xiang, C., Qiong, C., Yujie, Z., Jing, Z., Shenghua, G., & Dacheng, T. (2022). Dear KD: Data-Efficient Early Knowledge Distillation
+
+Dear KD: Data-Efficient Early Knowledge Distillation
 for Vision Transformers. arXiv preprint arXiv:2204.12997
 
 
-Jia, D., Han, K., Wang, Y., Tang, Y., Guo, J., Zhang, C., & Tao, D. (2021). Efficient vision transformers via fine-grained manifold
+Jia, D., Han,Efficient vision transformers via fine-grained manifold
 distillation. arXiv preprint arXiv:2107.01378.
 
-Wu, K., Zhang, J., Peng, H., Liu, M., Xiao, B., Fu, J., & Yuan, L. (2022). TinyViT: Fast Pretraining Distillation for Small Vision
 Transformers. arXiv preprint arXiv:2207.10666.
 
-Liu, Y., Cao, J., Li, B., Hu, W., Ding, J., & Li, L. (2022). Cross-Architecture Knowledge Distillation. arXiv preprint arXiv:2207.05273.
+ Cross-Architecture Knowledge Distillation. arXiv preprint arXiv:2207.05273.
 
 
-Zhang, J., Peng, H., Wu, K., Liu, M., Xiao, B., Fu, J., & Yuan, L. (2022). MiniViT: Compressing Vision Transformers with Weight
+MiniViT: Compressing Vision Transformers with Weight
 Multiplexing. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 12145-12154).
 
 ViTKD: Practical Guidelines for ViT feature knowledge distillation, Zhendong Yang, Zhe Li, Ailing Zeng, Zexian Li, Chun Yuan, Yu Li, arXiv 2022, code
@@ -38,8 +35,37 @@ On Distillation of Guided Diffusion Models, Chenlin Meng, Ruiqi Gao, Diederik P.
 
 ##   Pruning for Vision Transformers
 
-Yu, S., Chen, T., Shen, J., Yuan, H., Tan, J., Yang, S., ... & Wang, Z. (2022). Unified visual transformer compression. arXiv preprint
-arXiv:2203.08243.
+Papers
+
+
+2019-NIPS-Are sixteen heads really better than one?
+
+2020.11-Long Range Arena: A Benchmark for Efficient Transformers
+
+ 2021-KDDw-Vision Transformer Pruning
+ 
+ 2021-TCPS-TPrune: Efficient transformer pruning for mobile devices
+ 
+ 2021.05-MLPruning: A Multilevel Structured Pruning Framework for Transformer-based Model [Code]
+ 
+
+ 2021.09-HFSP: A Hardware-friendly Soft Pruning Framework for Vision Transformers
+    
+ 2021.11-Pruning Self-attentions into Convolutional Layers in Single Path [Code]
+  
+  2021.11-A Memory-saving Training Framework for Transformers [Code]
+
+
+ 2022-AAAI-Less is More: Pay Less Attention in Vision Transformers
+ 
+ 2022-ICLR-Unified Visual Transformer Compression
+  
+  2022-CVPR-Patch Slimming for Efficient Vision Transformers
+  
+  2022-CVPR-MiniViT: Compressing Vision Transformers with Weight Multiplexing
+  
+  2022-ECCV-An Efficient Spatio-Temporal Pyramid Transformer for Action Detection
+
 
 Self-slimmed Vision Transformer, Zhuofan Zong, Kunchang Li, Guanglu Song, Yali Wang, Yu Qiao, Biao Leng, Yu Liu, ICLR 2022
 
