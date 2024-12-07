@@ -1,6 +1,6 @@
 # Awesome-Efficient-Diffusion-Models
 
-This repository provides a curated list of research papers, resources, and code related to efficient diffusion models, including knowledge distillation, pruning, quantization, and other optimization techniques.
+This repository provides list of research papers, resources, and code related to efficient diffusion models, including knowledge distillation, pruning, quantization, and other optimization techniques.
 
 ## Knowledge Distillation for Diffusion Models
 
